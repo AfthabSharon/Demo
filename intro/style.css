@@ -1,0 +1,19 @@
+.header{
+    background-color: antiquewhite;
+    font-size: 50px;
+    height: 65px;
+    /* display: flex; */
+    justify-content: left;
+
+
+}
+ .left{
+    display: flex;
+    justify-content: left;
+    padding: 1px;
+    width: 30%;
+    margin: 15px;
+ }
+ img{
+    width: 84%;
+ }
