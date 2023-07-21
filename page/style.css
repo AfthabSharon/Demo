@@ -1,0 +1,14 @@
+
+.wrapper{
+    background: url(./image/lone-tree.jpg);
+    background-size: cover;
+    height: 700px;
+}
+.wrapper h1{
+    text-align: center; 
+    color: antiquewhite;
+}
+.para {
+    text-align: justify;
+    color: antiquewhite;
+}
