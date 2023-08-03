@@ -1,0 +1,27 @@
+.name h1{
+    text-align: center;
+    font-size: 80px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     letter-spacing: 5px;
+     font-style: bold;
+     padding-top: 20px;
+}
+.name p{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.name img{
+    width: 100%;
+    background-size: cover;
+    padding: 50px 50px ;
+}
+.dot p {
+    text-align: center;
+}
+/* .btn button{
+    color: red;
+    border: 1px solid black;
+    padding: 10px 10px;
+    border-radius: 20px;
+} */
